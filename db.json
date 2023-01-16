@@ -1,0 +1,124 @@
+{
+    "antibióticos":[
+    {"nome":"Amoxicilina",
+    "marca":"Prati",
+    "mg":500,
+    "quantidade":21,
+    "preço":17,
+    "id":1},
+
+    {"nome":"Cefalexina",
+    "marca":"União Química",
+    "mg":500,
+    "quantidade":10,
+    "preço":13,
+    "id":2},
+
+    {"nome":"Ciprofloxacino",
+    "marca":"Cimed",
+    "mg":500,
+    "quantidade":14,
+    "preço":21,
+    "id":3},
+
+    {"nome":"Tetralysal",
+    "marca":"Galderma",
+    "mg":500,
+    "quantidade":28,
+    "preço":216,
+    "id":4}
+
+],
+
+    "antiinflamatórios":[
+    {"nome":"Cetoprofeno",
+    "marca":"Medley",
+    "mg":150,
+    "quantidade":10,
+    "preço":22,
+    "id":1},
+
+    {"nome":"Ibupril",
+    "marca":"Teuto",
+    "mg":600,
+    "quantidade":20,
+    "preço":8,
+    "id":2},
+
+    {"nome":"Prednisona",
+    "marca":"Legrand",
+    "mg":20,
+    "quantidade":10,
+    "preço":8,
+    "id":3},
+
+    {"nome":"Maxsulid",
+    "marca":"Gosmed",
+    "mg": "400",
+    "quantidade":10,
+    "preço":34,
+    "id":4}
+
+],
+
+    "analgésicos":[
+    {"nome":"Cefaliv",
+    "marca":"Aché",
+    "mg":451,
+    "quantidade":12,
+    "preço":17,
+    "id": 1},
+
+    {"nome":"Transtec",
+    "marca":"Grunenthal",
+    "mg":30,"quantidade":4,
+    "preço":728,
+    "id":2},
+
+    {"nome":"Bexai",
+    "marca":"EMS",
+    "mg":35,
+    "quantidade":20,
+    "preço":112,
+    "id":3},
+
+    {"nome":"Gabapentina",
+    "marca":"Germed",
+    "mg":300,
+    "quantidade":30,
+    "preço":52,
+    "id":4}
+    
+],
+
+    "antialérgicos":[
+    {"nome":"Zina",
+    "marca":"Eurofarma",
+    "mg":5,
+    "quantidade":10,
+    "preço":46,
+    "id":1},
+
+    {"nome":"Fenergan",
+    "marca":"Sanofi Aventis",
+    "mg":25,
+    "quantidade":20,
+    "preço":14,
+    "id":2},
+
+    {"nome":"Rizi",
+    "marca":"Cosmed",
+    "mg":5,
+    "quantidade":30,
+    "preço":112,
+    "id":3},
+
+    {"nome":"Maleato de Dexclorfeniramina",
+    "marca":"Polaramine",
+    "mg":6,
+    "quantidade":12,
+    "preço":25,
+    "id":4}
+]
+
+}
