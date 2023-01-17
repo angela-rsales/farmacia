@@ -1,27 +1,6 @@
 {
-  "name": "farmacia",
-  "version": "1.0.0",
-  "description": "projeto server",
-  "main": "server.js",
-  "type": "module",
-  "scripts": {
-    "test": "node server.js",
-    "start": "node server.js"
-  },
-  "keywords": [
-    "antibioticos",
-    "antiinflamatorios",
-    "analgesicos",
-    "antialergicos"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/angela-rsales/farmacia.git"
-  },
-  "author": "Angela Sales",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/angela-rsales/farmacia/issues"
-  },
-  "homepage": "https://github.com/angela-rsales/farmacia#readme"
-}
+    "dependencies": {
+        "install": "^0.13.0",
+      "json-server": "^0.17.1"
+    }
+  }
