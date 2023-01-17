@@ -9,10 +9,10 @@
     "start": "node server.js"
   },
   "keywords": [
-    "antibióticos",
-    "antiinflamatórios",
-    "analgésicos",
-    "antialérgicos"
+    "antibioticos",
+    "antiinflamatorios",
+    "analgesicos",
+    "antialergicos"
   ],
   "repository": {
     "type": "git",
